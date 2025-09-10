@@ -1,12 +1,7 @@
 # ESP32_IDF_BME280_02
-Connect Bosch BME280 - API to new I2C - Master (ab 5.2)
-
-# BMP2 API
-
-This example shows how to use the new BOSCH - API 'BMP2' with a BMP280 - Sensor.
+This example shows how to connect the Bosch BME280 - API BME280 to the new I2C - Master (ab 5.2)
 
 ![Setup](/BME280.JPG)
-
 
 ## How to use example
 
